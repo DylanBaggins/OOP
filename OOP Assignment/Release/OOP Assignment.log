@@ -1,0 +1,33 @@
+﻿  main.cpp
+..\src\main.cpp(32): error C2059: syntax error: ';'
+..\src\main.cpp(33): error C2039: 'stack': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(33): error C2059: syntax error: ';'
+..\src\main.cpp(34): error C2039: 'stack': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(34): error C2059: syntax error: ';'
+..\src\main.cpp(37): error C2039: '<<': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(38): error C2039: '<<': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(39): error C2039: '<<': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(41): error C2039: 'scale': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(41): error C2059: syntax error: ';'
+..\src\main.cpp(42): error C2039: 'scale': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(42): error C2059: syntax error: ';'
+..\src\main.cpp(43): error C2039: 'scale': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+..\src\main.cpp(43): error C2059: syntax error: ';'
+..\src\main.cpp(46): error C2039: 'system': is not a member of 'ImageStacker'
+  f:\oop assignment\src\ImageStacker.h(3): note: see declaration of 'ImageStacker'
+  ImageLoader.cpp
+c1xx : fatal error C1083: Cannot open source file: 'ImageLoader.cpp': No such file or directory
+  ImageScaler.cpp
+c1xx : fatal error C1083: Cannot open source file: 'ImageScaler.cpp': No such file or directory
+  ImageStacker.cpp
+c1xx : fatal error C1083: Cannot open source file: 'ImageStacker.cpp': No such file or directory
+  ImageWriter.cpp
+c1xx : fatal error C1083: Cannot open source file: 'ImageWriter.cpp': No such file or directory
